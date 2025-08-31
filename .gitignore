@@ -1,3 +1,5 @@
 node_modules/
 package-lock.json/
 packege.json/
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
