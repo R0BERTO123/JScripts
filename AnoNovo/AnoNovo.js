@@ -18,7 +18,7 @@ let baseDate = new Date(dataHora.replace(" ", "T"));
 
 let destino = new Date(baseDate.getTime() + (fusoCidade - fusoLocal) * 60 * 60 * 1000);
 
-let jaEAnoNovo = destino.getMonth() + 1 === 1 && destino.getDate() === 1;
+let jaEAnoNovo = destino.getMonth() +1 === 1 && destino.getDate() === 1;
 
 
 
