@@ -1,5 +1,6 @@
 node_modules/
 package-lock.json/
 packege.json/
+.vscode/
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
